@@ -1,0 +1,6 @@
+{
+  "name": "Haris DB Pro",
+  "description": "Offline-first, encrypted custom database management tool with administrator authentication, dynamic schema builder, and backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
